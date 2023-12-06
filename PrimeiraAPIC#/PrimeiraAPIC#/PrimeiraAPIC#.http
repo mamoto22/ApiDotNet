@@ -1,0 +1,6 @@
+@PrimeiraAPIC__HostAddress = http://localhost:5018
+
+GET {{PrimeiraAPIC__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
